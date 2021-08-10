@@ -21,6 +21,6 @@
         </style>
     </head>
     <body class="antialiased">
-       Xin chao cac ban
+       Xin chao
     </body>
 </html>
